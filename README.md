@@ -1,4 +1,4 @@
-# Link: https://trello-card.netlify.app/
+
 
 # Getting Started with Create React App
 
